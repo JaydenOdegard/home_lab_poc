@@ -1,0 +1,12 @@
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
+*.log
+*.lock
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
